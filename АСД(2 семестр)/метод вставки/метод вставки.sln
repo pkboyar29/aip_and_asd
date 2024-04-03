@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "метод вставки", "метод вставки\метод вставки.csproj", "{EA73A637-7B9E-4DB0-90C0-B99F5EF6E06D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA73A637-7B9E-4DB0-90C0-B99F5EF6E06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA73A637-7B9E-4DB0-90C0-B99F5EF6E06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA73A637-7B9E-4DB0-90C0-B99F5EF6E06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA73A637-7B9E-4DB0-90C0-B99F5EF6E06D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40BBB71D-C179-452E-B42F-67507E9314DE}
+	EndGlobalSection
+EndGlobal
